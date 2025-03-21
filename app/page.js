@@ -2,7 +2,7 @@
 import { motion, useScroll, useTransform } from 'framer-motion'
 import Layout from '@/components/Layout'
 import { TbApi } from 'react-icons/tb';
-import { FaReact, FaNodeJs, FaPython, FaHtml5, FaCss3, FaJs, FaGit, FaGithub, FaCode } from 'react-icons/fa';
+import { FaReact, FaNodeJs, FaPython, FaHtml5, FaCss3, FaJs, FaGit, FaGithub, FaCode  } from 'react-icons/fa';
 import { 
   SiNextdotjs, SiExpress, SiTailwindcss, SiMongodb, SiCplusplus, SiRedux 
 } from 'react-icons/si';
